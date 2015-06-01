@@ -11,4 +11,5 @@
 * DataBase Management System (DBMS)
 * 4Vs (Volume, Variety, Velocity, Veracity)
 * Hybrid Storage
-
+* Parallel-Processing
+* Flashback
