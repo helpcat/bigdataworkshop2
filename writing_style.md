@@ -4,7 +4,7 @@ Samuel AUBERTIN
 ## Writing
 
 * No spaces between words and punctuation.
-* Indented lists, no digits.
+* Indented lists, no digits and space after the "-".
 
 ## Slides
 
