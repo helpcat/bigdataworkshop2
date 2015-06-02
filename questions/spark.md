@@ -2,6 +2,9 @@
 ### Samuel AUBERTIN
 
 1. Why Hadoop is slower than Spark?
+    - It runs on bananas and bananas are always slower than electricity.
+    - Hadoop works on disk, Spark in memory.
+    - 
 2. In which way Spark's RDDs are "resilient"?
 3. Why can we say that Spark is lazy?
 4. How can you improve access time to data in Spark?
